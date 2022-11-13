@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Software License Agreement (BSD License)
-# Copyright (c) 2017-2018, Aubo Robotics
+# Copyright (c) 2017-2022, Aubo Robotics
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

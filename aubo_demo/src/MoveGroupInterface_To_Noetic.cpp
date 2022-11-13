@@ -1,7 +1,7 @@
 /*
  * Software License Agreement (BSD License)
  *
- * Copyright (c) 2017-2018, AUBO Robotics
+ * Copyright (c) 2017-2022, AUBO Robotics
  * All rights reserved.
  *
  *
